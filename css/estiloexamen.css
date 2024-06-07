@@ -1,0 +1,74 @@
+
+h1,h2{
+font-family:"Comic Sans MS";
+}
+
+#inicio{
+    color: red;
+}
+
+#titulo2{
+    color: #009846;
+}
+
+
+#menu ul{
+list-style: none;
+display: flex;
+
+}
+
+#menu a{
+    text-decoration: none;
+}
+
+#menu li{
+    margin-right: 4px;
+}
+
+#menu{
+  background-color:green ;
+  width: 12%; 
+  height: 25px; 
+}
+
+.palmeras{
+    text-align: center;
+    color: red;
+}
+
+.textocenter{
+    text-align: center;
+}
+
+
+body {
+  font-family: "Raleway", sans-serif;
+
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+img {
+    float: left;
+    margin-right: 20px; 
+}
+
+.width-text {
+    width: 40%;
+}
